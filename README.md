@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 # Deva Manikanta
-### AI/ML Developer — Generative AI · LangChain · FastAPI
+### AI/ML Engineer — Generative AI · MLOPS · Backend(FastAPI)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deva-manikanta)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Deva_Manikanta1)
